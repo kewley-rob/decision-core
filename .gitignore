@@ -1,0 +1,31 @@
+# Local Python environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python bytecode and tooling caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Build and packaging artifacts
+build/
+dist/
+*.egg-info/
+
+# Local IDE and coding-agent state
+.idea/
+.junie/
+
+# Jupyter/Google Colab transient files
+.ipynb_checkpoints/
+
+# Operating-system files
+.DS_Store

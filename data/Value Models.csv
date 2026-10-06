@@ -1,0 +1,54 @@
+﻿Criterion,Type
+Value Model Type,
+Measurement…,Value Score…
+,
+Stopping Distance,continuous
+Numerical,
+100,100
+150,0
+,
+Airbags,integer
+Numerical,
+2,10
+4,20
+6,80
+8,100
+10,100
+,
+Rollover Rating,ordinal
+Categorical,
+1,0
+2,0
+3,10
+4,50
+5,100
+,
+Apps,categorical
+Categorical,
+None,0
+Subscription,30
+Wired Car Play,60
+Wireless Car Play,100
+,
+Cargo space,continuous
+Numerical,
+25,0
+50,100
+,
+Traction control,boolean
+Categorical,
+No,0
+Yes,100
+,
+Rear Legroom,continuous
+Numerical,
+30,0
+40,100
+,
+Crash Ratings,ordinal
+Categorical,
+1,0
+2,0
+3,10
+4,50
+5,100
